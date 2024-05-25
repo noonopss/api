@@ -1,0 +1,136 @@
+{
+    "result": [
+        {
+            "No": "99",
+            "Name": "Kim Min Seok",
+            "Given_name" : "XIUMIN",
+            "Birth_date": "1990-03-26",
+            "Position": "vocalist",
+            "Character": "Cat",
+            "Superpower" : "Frost",
+            "Team": "EXO-M",
+            "Poster": "https://i.pinimg.com/564x/6f/30/13/6f30132de0b12463ba08fa8300e9671d.jpg"
+        },
+        {
+            "No": "7",
+            "Name": "Lu Han",
+            "Given_name" : "LUHAN",
+            "Birth_date": "1990-04-20",
+            "Position": "Main Vocalist",
+            "Character": "Deer",
+            "Superpower" : "Telekinesis",
+            "Team": "EXO-M",
+            "Poster": "https://i.pinimg.com/564x/ec/c6/89/ecc689799ebed219cd9acfb4e83b04f9.jpg"
+        },
+        {
+            "No": "00",
+            "Name": "Wu Yi Fan",
+            "Given_name" : "KRIS",
+            "Birth_date": "1990-11-06",
+            "Position": "Vocalist, Leader EXO-M",
+            "Character": "Lion",
+            "Superpower" : "Flight",
+            "Team": "EXO-M",
+            "Poster": "https://i.pinimg.com/564x/ee/81/20/ee8120ef47fa68e0eda276d2db99b36c.jpg"
+        },
+        {
+            "No": "1",
+            "Name": "Kim Jun Myeon",
+            "Given_name" : "SUHO",
+            "Birth_date": "1991-05-22",
+            "Position": "Vocalist, Leader EXO-K",
+            "Character": "Bunny",
+            "Superpower" : "Water",
+            "Team": "EXO-K",
+            "Poster": "https://i.pinimg.com/564x/31/a9/3b/31a93b60d9c28d49e2c3215b6afe3a89.jpg"
+        },
+        {
+            "No": "10",
+            "Name": "Zhang Yixing",
+            "Given_name" : "LAY",
+            "Birth_date": "1991-10-07",
+            "Position": "Main Dancer, Vocalist",
+            "Character": "Sheep",
+            "Superpower" : "Heal",
+            "Team": "EXO-M",
+            "Poster": "https://i.pinimg.com/564x/a9/3d/d6/a93dd63e870d26327632386955829485.jpg"
+        },
+        {
+            "No": "4",
+            "Name": "Byun Baek Hyun",
+            "Given_name" : "BAEKHYUN",
+            "Birth_date": "1992-05-06",
+            "Position": "Main Vocalist",
+            "Character": "Puppy",
+            "Superpower" : "Light",
+            "Team": "EXO-K",
+            "Poster": "https://i.pinimg.com/564x/18/29/42/1829422c2e1bc12f6da98274d21ba55f.jpg"
+        },
+        {
+            "No": "21",
+            "Name": "Kim Jong Dae",
+            "Given_name" : "CHEN",
+            "Birth_date": "1992-09-21",
+            "Position": "Main Vocalist",
+            "Character": "Dinosaur",
+            "Superpower" : "Lightning/Thunder",
+            "Team": "EXO-M",
+            "Poster": "https://i.pinimg.com/564x/23/9f/27/239f27420dc7287b85db0bcd8dcae4a8.jpg"
+        },
+        {
+            "No": "61",
+            "Name": "Park Chanyeol",
+            "Given_name" : "CHANYEOL",
+            "Birth_date": "1992-11-27",
+            "Position": "Main Rapper, Vocalist",
+            "Character": "Tiger",
+            "Superpower" : "Fire",
+            "Team": "EXO-K",
+            "Poster": "https://i.pinimg.com/564x/74/e0/9b/74e09b5d82e4aefd0de09025816affc9.jpg"
+        },
+        {
+            "No": "12",
+            "Name": "Doh Kyungsoo",
+            "Given_name" : "D.O.",
+            "Birth_date": "1993-01-12",
+            "Position": "Main Vocalist",
+            "Character": "Pinguin",
+            "Superpower" : "Earth",
+            "Team": "EXO-K",
+            "Poster": "https://i.pinimg.com/564x/08/7a/9a/087a9ada59c405cb73e93b5a64d66ead.jpg"
+        },
+        {
+            "No": "68",
+            "Name": "Huang Zi Tao",
+            "Given_name" : "TAO",
+            "Birth_date": "1993-05-02",
+            "Position": "Vocalist, Rapper",
+            "Character": "Panda",
+            "Superpower" : "Time Control",
+            "Team": "EXO-M",
+            "Poster": "https://i.pinimg.com/564x/0d/b9/e5/0db9e518835c42e55fee69496e8e8404.jpg"
+        },
+        {
+            "No": "88",
+            "Name": "Kim Jong In",
+            "Given_name" : "KAI",
+            "Birth_date": "1994-01-14",
+            "Position": "Main Dancer, Vocalist",
+            "Character": "Bear",
+            "Superpower" : "Teleportation",
+            "Team": "EXO-K",
+            "Poster": "https://i.pinimg.com/564x/af/6e/87/af6e8710a369c7026fa0e5e48cf335ae.jpg"
+        }, 
+        {
+            "No": "94",
+            "Name": "Oh Sehun",
+            "Given_name" : "SEHUN",
+            "Birth_date": "1994-04-12",
+            "Position": "Rapper, Dancer",
+            "Character": "Chick",
+            "Superpower" : "Wind",
+            "Team": "EXO-K",
+            "Poster": "https://i.pinimg.com/564x/62/1e/9f/621e9f82498a02193f9261511eafb3df.jpg"
+        }
+    ]
+}
